@@ -1,0 +1,26 @@
+DataBase,Desired to use,Already using
+Microsoft SQL Server,53706,75572
+MySQL,79824,116882
+PostgreSQL,71955,73547
+MongoDB,66809,59192
+Firebase,20521,16740
+Cassandra,16969,9846
+Elasticsearch,39767,26849
+MariaDB,23240,29566
+Redis,48221,41152
+SQLite,44977,57981
+Oracle,21318,30918
+Couchbase,4147,2454
+IBM DB2,935,1421
+Other(s):,4516,5059
+Amazon RDS/Aurora,4630,3388
+"Microsoft Azure (Tables, CosmosDB, SQL, etc)",8325,5203
+IBM Db2,905,1677
+Amazon DynamoDB,16960,11580
+Apache Hive,2653,1438
+Neo4j,3790,1572
+Apache HBase,2312,1107
+Google BigQuery,5036,1384
+Memcached,3587,3615
+Google Cloud Storage,7515,3634
+Amazon Redshift,3183,1464
