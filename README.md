@@ -23,6 +23,16 @@ End to End Data analytics project on StackOverflow developer survey over last 4y
 * Answered a lot of questions like employment type of people, their education level, world's contribution on stackoverflow and impact of these factors on Salary.
 * All Visuals/reports are published in a free cloud environment (Tableau Public) so that anyone/everyone can carry on their own analysis, a few visuals are --
     
-    [!ab](https://github.com/Dvboi/Stack-Overflow-devs-survey-/blob/master/viz_snap/i1.png)
+    ![Avg. Salary by Major](https://github.com/Dvboi/Stack-Overflow-devs-survey-/blob/master/viz_snap/i1.png)     
+        
+     ![Tool Desire Vs Worked_With](https://github.com/Dvboi/Stack-Overflow-devs-survey-/blob/master/viz_snap/i2.png)    
+     
+     ![World Contribution](https://github.com/Dvboi/Stack-Overflow-devs-survey-/blob/master/viz_snap/i3.png)    
+     
+     ![Bootstrapped Salary](https://github.com/Dvboi/Stack-Overflow-devs-survey-/blob/master/viz_snap/i4.png)     
+     
+     
+     
+     
 
 
